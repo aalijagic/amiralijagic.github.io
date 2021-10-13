@@ -2,4 +2,4 @@
 
 Ovjde će se nalaziti html, css i javascript moje web stranice
 
-Adresa web stranice je https://amiralijagic.github.io
+Adresa web stranice je https://aalijagic.github.io/amiralijagic.github.io/
